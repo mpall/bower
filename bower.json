@@ -1,0 +1,23 @@
+{
+  "name": "mybower",
+  "version": "0.0.0",
+  "authors": [
+    "mpall <marcuspallot@hotmail.com>"
+  ],
+  "description": "My first bower",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.1.1"
+  }
+}
