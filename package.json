@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "version": "0.0.0",
+  "description": "Bower",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mpall/bower.git"
+  },
+  "author": "me",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mpall/bower/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4"
+  }
+}
